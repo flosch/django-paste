@@ -27,9 +27,11 @@ Requirements:
 
 - `django-mptt`_ for the nested-set history tree
 - Pygments_ for syntax highlighting 
+- simpleapi_ for API functionality
 
 .. _`django-mptt`: http://code.google.com/p/django-mptt/
 .. _Pygments: http://pygments.org/
+.. _simpleapi: http://github.com/flosch/simpleapi
 
 Latest version:
 ===============
